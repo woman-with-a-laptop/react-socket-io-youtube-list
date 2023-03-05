@@ -4,7 +4,7 @@ Clone repo localy https://github.com/woman-with-a-laptop/react-socket-io-youtube
 
 
 
-# In Server folder
+# Enter Server folder
 
 open CMD
 
@@ -14,7 +14,7 @@ open CMD
 
 
 
-# In Client folder
+# Enter Client folder
 
 open CMD
 
