@@ -28,9 +28,9 @@ Open multipe clients at http://localhost:3000/
  
 # Empty List View
 
-<img src="%PUBLIC_URL%/emptyList.jpg" />
+<img src="https://github.com/woman-with-a-laptop/react-socket-io-youtube-list/blob/main/client/public/emptyList.jpg" />
 
  
 # Full List View
 
-<img src="%PUBLIC_URL%/fullList.jpg" />
+<img src="https://github.com/woman-with-a-laptop/react-socket-io-youtube-list/blob/main/client/public/fullList.jpg" />
