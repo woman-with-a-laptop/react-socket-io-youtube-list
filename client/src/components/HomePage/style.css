@@ -1,0 +1,11 @@
+.menu {
+    width: 350px;
+}
+
+@media all and (max-width: 900px) {
+    .menu {
+        order: 2;
+        margin: 20px;
+        width: 90vw;
+    }
+}
