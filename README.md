@@ -25,4 +25,12 @@ Open multipe clients at http://localhost:3000/
 
 ### run `npm run test` to test the app
 
+ 
+# Empty List View
 
+<img src="%PUBLIC_URL%/emptyList.jpg" />
+
+ 
+# Full List View
+
+<img src="%PUBLIC_URL%/fullList.jpg" />
