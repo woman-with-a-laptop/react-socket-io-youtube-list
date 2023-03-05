@@ -10,9 +10,7 @@ open CMD
 
 ### run `npm install express cors nodemon socket.io ` 
 
-### `npm start` to start listening on port 
-
-### `npm run test` to run tests
+### run `npm start` to start listening on port 4000
 
 
 
@@ -20,12 +18,11 @@ open CMD
 
 open CMD
 
-### `npm run build` 
+### run `npm run build` 
 
-### `npm start` to view the http://localhost:3000
+### run `npm start` to view the http://localhost:3000
 Open multipe clients at http://localhost:3000/
 
-open CMD
-### `npm run test` to run tests
+### run `npm run test` to test the app
 
 
