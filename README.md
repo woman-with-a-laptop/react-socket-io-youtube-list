@@ -1,6 +1,20 @@
 # Getting Started
 
-Clone repo localy
+Clone repo localy https://github.com/woman-with-a-laptop/react-socket-io-youtube-list.git
+
+
+
+# In Server folder
+
+open CMD
+
+### run `npm install express cors nodemon socket.io ` 
+
+### `npm start` to start listening on port 
+
+### `npm run test` to run tests
+
+
 
 # In Client folder
 
@@ -12,17 +26,6 @@ open CMD
 Open multipe clients at http://localhost:3000/
 
 open CMD
-### `npm run test` to run tests
-
-
-# In Server foldet
-
-open CMD
-
-### run `npm install express cors nodemon socket.io ` 
-
-### `npm start` to start listening on port 
-
 ### `npm run test` to run tests
 
 
